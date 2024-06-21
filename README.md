@@ -102,10 +102,6 @@
       <td width="33.33%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ceeejeey&show_icons=true&locale=en" alt="General Stats">
       </td>
-      <!-- Streak Stats with wider width -->
-      <td width="66.66%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceeejeey" alt="Streak Stats">
-      </td>
     </tr>
   </table>
   <h3 align="center">Connect with me:</h3>
