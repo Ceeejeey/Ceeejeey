@@ -122,4 +122,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
   </a>
 </p>
-
+<div align="center">
+<img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="hacker" border="0"  style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" /></a>
+</div>
