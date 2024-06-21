@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/VQPVt4h"><img src="https://i.ibb.co/P9fxNHb/Newme.jpg" alt="Newme" border="0" width="900px" height="600px"/></a>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/></a>
 </div>
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 <h3 align="center">
