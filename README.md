@@ -1,6 +1,9 @@
 <div align="center">
  <a href="https://imgbb.com/"><img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/></a>
 </div>
+<div align="center">
+ <img  src="https://github.com/sammorozov/sammorozov/blob/main/assets/github-snake.svg" alt="hacker" border="0"> 
+</div>
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 <h3 align="center">
   Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Android Developer | Cybersecurity Enthusiast
