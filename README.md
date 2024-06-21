@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 
 <div align="center">
-  <a href="https://ibb.co/9VwxdvS"><img src="https://i.ibb.co/2s8zp6H/meNew.jpg" alt="meNew" border="0" width="1000px" height="800px" /></a>
+  <a href="https://ibb.co/VQPVt4h"><img src="https://i.ibb.co/P9fxNHb/Newme.jpg" alt="Newme" border="0" width="900px" height="600px"/></a>
 </div>
 
 <h3 align="center">
