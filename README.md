@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/gihan_0205" target="blank">
-    <img src="https://img.shields.io/twitter/follow/gihan_0205?logo=twitter&style=for-the-badge" alt="gihan_0205" />
-  </a>
+  <a href="https://www.linkedin.com/in/gihan-vimukthi" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+</a>
 </p>
 
 <div style="text-align: center;">
