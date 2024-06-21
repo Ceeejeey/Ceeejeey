@@ -1,10 +1,8 @@
-<div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/></a>
-</div>
+
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 
 <div align="center">
-  <a href="https://ibb.co/9VwxdvS"><img src="https://i.ibb.co/2s8zp6H/meNew.jpg" alt="meNew" border="0" style="border-radius: " /></a>
+  <a href="https://ibb.co/9VwxdvS"><img src="https://i.ibb.co/2s8zp6H/meNew.jpg" alt="meNew" border="0" width="1000px" height="800px" /></a>
 </div>
 
 <h3 align="center">
