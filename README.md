@@ -1,10 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Gihan</h1>
-
 <div align="center">
   <a href="https://ibb.co/VQPVt4h"><img src="https://i.ibb.co/P9fxNHb/Newme.jpg" alt="Newme" border="0" width="900px" height="600px"/></a>
 </div>
-
+<h1 align="center">Hi 👋, I'm Gihan</h1>
 <h3 align="center">
   Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Android Developer | Cybersecurity Enthusiast
 </h3>
