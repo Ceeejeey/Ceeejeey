@@ -8,7 +8,9 @@
 <h3 align="center">
   Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Android Developer | Cybersecurity Enthusiast
 </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat" alt="ceeejeey" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceeejeey" alt="ceeejeey" /></a> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/gihan-vimukthi" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
@@ -95,18 +97,25 @@
   </tr>
 </table>
 
+<!-- Contribution Graph Section -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceeejeey&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
+</div>
+
+<!-- Stats Section -->
 <table width="100%" cellspacing="20">
-    <tr>
-      <!-- Top Languages -->
-      <td width="33.33%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceeejeey&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-      </td>
-      <!-- General Stats -->
-      <td width="33.33%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ceeejeey&show_icons=true&locale=en" alt="General Stats">
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <!-- Top Languages -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceeejeey&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+    </td>
+    <!-- General Stats -->
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ceeejeey&show_icons=true&theme=dark&locale=en" alt="General Stats" />
+    </td>
+  </tr>
+</table>
+
   <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/gihan_0205" target="blank">
