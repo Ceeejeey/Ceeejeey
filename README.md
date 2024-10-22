@@ -97,7 +97,7 @@
   </tr>
 </table>
  #30NitesOfCode:
-  <a href="www.codedex.io/@gihanvimuk82639/30-nites-of-code">Check out my progress!</a>  
+  <a href="http://www.codedex.io/@gihanvimuk82639/30-nites-of-code">Check out my progress!</a>  
   <img src="https://www.codedex.io/api/petStatus?user=gihanvimuk82639" />
 <!-- Contribution Graph Section -->
 <div align="center">
