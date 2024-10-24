@@ -8,7 +8,7 @@
 <h3 align="center">
   Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Android Developer | Cybersecurity Enthusiast
 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat" alt="ceeejeey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="ceeejeey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceeejeey" alt="ceeejeey" /></a> </p>
 <p align="center">
