@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 <h3 align="center">
-  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Android Developer | Cybersecurity Enthusiast
+  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Cybersecurity Enthusiast
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="ceeejeey" /> </p>
 
@@ -19,10 +19,10 @@
 
 <div style="text-align: center;">
     <p>
-    - 🌱 I’m currently learning <strong>React, NodeJS, Express, .NET, Flutter, Linux</strong><br>
-    - 💬 Ask me about <strong>JavaScript, NodeJS, Java</strong><br>
+    - 🌱 I’m currently learning <strong>FastAPI, DJango, Flask, .NET, Angular, Postgre SQL, Linux</strong><br>
+    - 💬 Ask me about <strong>JavaScript, NodeJS, React, Java</strong><br>
     - 📫 How to reach me: <strong><a href="mailto:gihanvimukthi19@gmail.com">gihanvimukthi19@gmail.com</a></strong><br>
-    - ⚡ Fun fact: <strong>Avid gamer who loves diving into different game worlds</strong><br>
+    - ⚡ Fun fact: <strong>I don’t squash bugs—I befriend them, name them, and debug them until they behave. 🐞✨</strong><br>
     - 🤝 Feel free to contact me on LinkedIn: <strong><a href="https://www.linkedin.com/in/gihan-vimukthi/">Gihan Vimukthi</a></strong><br>
     - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
   </p>
@@ -36,7 +36,6 @@
           <ul style="list-style-type: none; padding: 0;">
             <li style="margin-bottom: 10px;">🌐 <strong>Full Stack Web Development</strong>: Building dynamic and responsive web applications.</li>
             <li style="margin-bottom: 10px;">🎮 <strong>Game Development</strong>: Creating immersive and engaging gaming experiences.</li>
-            <li style="margin-bottom: 10px;">📱 <strong>Android Development</strong>: Developing sleek and user-friendly mobile applications.</li>
             <li style="margin-bottom: 10px;">🎨 <strong>Graphic Designing</strong>: Crafting visually appealing designs.</li>
             <li style="margin-bottom: 10px;">🧩 <strong>Problem Solving</strong>: Tackling complex problems with efficient solutions.</li>
           </ul>
