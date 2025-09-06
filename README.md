@@ -6,7 +6,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Gihan</h1>
 <h3 align="center">
-  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring Game Developer | Full Stack Developer | Cybersecurity Enthusiast
+  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring DevOps Engineer | Full Stack Developer | Cybersecurity Enthusiast
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="ceeejeey" /> </p>
 
