@@ -1,142 +1,346 @@
-<div align="center">
- <a href="https://imgbb.com/"><img src="https://i.ibb.co/BGCxs22/hacker.gif" alt="hacker" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;"/></a>
-</div>
-<div align="center">
- <img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="hacker" border="0"> 
-</div>
-<h1 align="center">Hi 👋, I'm Gihan</h1>
-<h3 align="center">
-  Computer Science Undergraduate | AI & ML Enthusiast | Aspiring DevOps Engineer | Full Stack Developer | Cybersecurity Enthusiast
-</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="ceeejeey" /> </p>
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    GIHAN VIMUKTHI — GITHUB PROFILE README                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ceeejeey" alt="ceeejeey" /></a> </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gihan-vimukthi" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" />
+<!-- ▓▓▓ HERO SECTION ▓▓▓ -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003300,60:00ff41,100:0d1117&height=220&section=header&text=GIHAN%20VIMUKTHI&fontSize=52&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Mobile%20%E2%80%A2%20Cybersecurity&descAlignY=55&descSize=18&descColor=00cc33" />
+</div>
+
+<br/>
+
+<!-- ▓▓▓ TYPING ANIMATION ▓▓▓ -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=620&height=55&lines=CS+Undergrad+%7C+Builder+%7C+Hacker;Full+Stack+%2B+DevOps+Engineer;Mobile+Dev+%E2%80%A2+Flutter+%26+Dart;Cybersecurity+Enthusiast;%24+whoami+%3A%3A+gihan_vimukthi;%24+sudo+deploy+--prod" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- ▓▓▓ PROFILE BADGES ▓▓▓ -->
+<div align="center">
+  <a href="https://github.com/ceeejeey?tab=followers">
+    <img src="https://img.shields.io/github/followers/ceeejeey?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Followers"/>
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ceeejeey&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/ceeejeey?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ceeejeey?label=Total+Stars&style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github" alt="Stars"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ▓▓▓ SNAKE ANIMATION ▓▓▓ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ▓▓▓ ABOUT ME SECTION ▓▓▓ -->
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;About Me
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img align="right" width="38" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
+
+```yaml
+Name     : Gihan Vimukthi
+Status   : CS Undergraduate
+Location : Sri Lanka
+Roles    : Full Stack Developer
+         : DevOps Engineer
+         : Mobile Developer
+         : CyberSec Enthusiast
+Contact  : gihanvimukthi19@gmail.com
+```
+
+</td>
+<td width="50%" valign="top">
+
+<img align="right" width="38" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif">
+
+```yaml
+Working  : Full Stack Projects
+Learning : Rust | Cloud Architecture
+         : DevSecOps | K8s
+Focus    : Scalable Systems
+         : Clean Architecture
+Open to  : Collaborations
+         : Open Source Projects
+Fun Fact : I befriend bugs & name
+         : them until they behave
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ▓▓▓ WHAT I DO SECTION ▓▓▓ -->
+
+<br/>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30" /> &nbsp;What I Do
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=html" width="40" /><br/><br/>
+<strong>Full Stack<br/>Web Dev</strong><br/><br/>
+<sub>End-to-end scalable<br/>web applications</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=flutter" width="40" /><br/><br/>
+<strong>Mobile<br/>Development</strong><br/><br/>
+<sub>Cross-platform apps<br/>Flutter & Dart</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=gcp" width="40" /><br/><br/>
+<strong>DevOps<br/>& Cloud</strong><br/><br/>
+<sub>CI/CD, containers<br/>GCP infrastructure</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=linux" width="40" /><br/><br/>
+<strong>Cyber<br/>Security</strong><br/><br/>
+<sub>Ethical hacking<br/>secure coding</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=figma" width="40" /><br/><br/>
+<strong>Graphic<br/>Design</strong><br/><br/>
+<sub>Visual design<br/>that communicates</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ▓▓▓ TECH STACK SECTION ▓▓▓ -->
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" /> &nbsp;Tech Stack
+
+<br/>
+
+<!-- Languages -->
+<details open>
+<summary><h3>Languages</h3></summary>
+<br/>
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+</details>
+
+<!-- Frontend & Mobile -->
+<details open>
+<summary><h3>Frontend & Mobile</h3></summary>
+<br/>
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
+</details>
+
+<!-- Backend & APIs -->
+<details open>
+<summary><h3>Backend & APIs</h3></summary>
+<br/>
+<div align="center">
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+</div>
+</details>
+
+<!-- Databases -->
+<details open>
+<summary><h3>Databases</h3></summary>
+<br/>
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+</details>
+
+<!-- DevOps & Cloud -->
+<details open>
+<summary><h3>DevOps & Cloud</h3></summary>
+<br/>
+<div align="center">
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+</details>
+
+<!-- Tools -->
+<details open>
+<summary><h3>Tools</h3></summary>
+<br/>
+<div align="center">
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
+</div>
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ▓▓▓ GITHUB STATS SECTION ▓▓▓ -->
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> &nbsp;GitHub Stats
+
+<br/>
+
+<!-- Activity Graph — Full Width -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceeejeey&bg_color=0d1117&color=00ff41&line=00ff41&point=00cc33&area_color=00ff41&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- Languages — Compact Bar Layout -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceeejeey&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&card_width=500" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceeejeey&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&icon_color=00ff41&ring_color=00ff41&card_width=500" alt="GitHub Stats"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats — Full Width -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ceeejeey&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=00AA22&stroke=00ff4133" width="80%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- Trophies -->
+<div align="center">
+
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ceeejeey&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<!-- ▓▓▓ CONNECT SECTION ▓▓▓ -->
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> &nbsp;Let's Connect
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gihan-vimukthi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
+&nbsp;
+<a href="https://twitter.com/gihan_0205" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+</a>
+&nbsp;
+<a href="https://stackoverflow.com/users/24110464" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/gihanvimukthi19" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black" alt="HackerRank" />
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/8hl3zkxrbw" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+</a>
+&nbsp;
+<a href="mailto:gihanvimukthi19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
-<div style="text-align: center;">
-    <p>
-    - 🌱 I’m currently learning <strong>FastAPI, DJango, Flask, .NET, Angular, Postgre SQL, Linux</strong><br>
-    - 💬 Ask me about <strong>JavaScript, NodeJS, React, Java</strong><br>
-    - 📫 How to reach me: <strong><a href="mailto:gihanvimukthi19@gmail.com">gihanvimukthi19@gmail.com</a></strong><br>
-    - ⚡ Fun fact: <strong>I don’t squash bugs—I befriend them, name them, and debug them until they behave. 🐞✨</strong><br>
-    - 🤝 Feel free to contact me on LinkedIn: <strong><a href="https://www.linkedin.com/in/gihan-vimukthi/">Gihan Vimukthi</a></strong><br>
-    - 🤝 Feel free to collaborate with me! I'm open to exploring joint projects, sharing knowledge, and brainstorming innovative solutions in web development, game development, and beyond. Let's connect and create something amazing together!
-  </p>
-</div>
-<table width="100%" border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
-    <tr>
-      <!-- Left column for interests -->
-      <td valign="top" width="50%" border="0" style="padding-right: 20px;">
-        <div>
-          <h2>My Interests</h2>
-          <ul style="list-style-type: none; padding: 0;">
-            <li style="margin-bottom: 10px;">🌐 <strong>Full Stack Web Development</strong>: Building dynamic and responsive web applications.</li>
-            <li style="margin-bottom: 10px;">🎮 <strong>Game Development</strong>: Creating immersive and engaging gaming experiences.</li>
-            <li style="margin-bottom: 10px;">🎨 <strong>Graphic Designing</strong>: Crafting visually appealing designs.</li>
-            <li style="margin-bottom: 10px;">🧩 <strong>Problem Solving</strong>: Tackling complex problems with efficient solutions.</li>
-          </ul>
-        </div>
-      </td>
-      <!-- Right column for the image -->
-      <td valign="top" width="50%" border="0">
-        <div align="center">
-          <img src="https://i.ibb.co/xzw4FsR/code-sleep.gif" alt="code-sleep" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
-        </div>
-      </td>
-    </tr>
-  </table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="20">
-    <tr>
-      <!-- Left column for languages and tools -->
-      <td valign="top" align="center" width="50%">
-        <h3>Languages and Tools:</h3>
-        <table>
-          <tr>
-            <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a></td>
-            <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a></td>
-            <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a></td>
-            <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></td>
-            <td><a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" /></a></td>
-            <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a></td>
-          </tr>
-          <tr>
-            <td><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a></td>
-            <td><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /></a></td>
-            <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
-            <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></td>
-            <td><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" /></a></td>
-             <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://github.com/HijelHub/GitStrap_SVG_Icons/blob/main/icons/purple/bootstrap-fill.svg" alt="bootstrap" width="40" height="40" /></a></td>
-          </tr>
-          </tr>
-          <tr>
-            <td><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a></td>
-            <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></td>
-            <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a></td>
-            <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a></td>
-            <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a></td>
-            <td><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></td>
-          </tr>
-          <tr>
-            <td><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a></td>
-            <td><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a></td>
-           
-  </table>
-      </div>
-    </td>
-    <!-- Right column for GIF image -->
-    <td valign="top" align="center" width="50%">
-      <img src="https://i.ibb.co/v4rN84g/endless.gif" alt="endless" border="0" style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
-
- #30NitesOfCode:
-  <a href="http://www.codedex.io/@gihan-vimukthi/30-nites-of-code">Check out my progress!</a>  
-  <img src="https://www.codedex.io/api/petStatus?user=gihan-vimukthi" />
-<!-- Contribution Graph Section -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceeejeey&theme=high-contrast&hide_border=true&area=true&point=FF0000&area_color=FF0000&line=FF0000" alt="Contribution Graph" />
 </div>
 
-<!-- Stats Section -->
-<table width="100%" cellspacing="20">
-  <tr>
-    <!-- Top Languages -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ceeejeey&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-    </td>
-    <!-- General Stats -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ceeejeey&show_icons=true&theme=dark&locale=en" alt="General Stats" />
-    </td>
-  </tr>
-</table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ceeejeey&theme=dark" alt="ceeejeey" width="100%"/></p>
+<br/>
 
-  <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/gihan_0205" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gihan_0205" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/gihan-vimukthi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gihan-vimukthi" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/24110464" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24110464" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/gihanvimukthi19" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gihanvimukthi19" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/8hl3zkxrbw" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="8hl3zkxrbw" height="30" width="40" />
-  </a>
-</p>
+<!-- ▓▓▓ FOOTER ▓▓▓ -->
 <div align="center">
-<img src="https://media.giphy.com/media/IeRdg7VETgTWg/giphy.gif" alt="hacker" border="0"  style="border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003300,60:00ff41,100:0d1117&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=00ff41&fontAlignY=70&animation=fadeIn" width="100%"/>
 </div>
